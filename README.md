@@ -1,5 +1,5 @@
 # Windows11-VMware-Fusion-M1
-Windows 11 Evaluation Copy Image for VMware Fusion in Apple M1
+Windows 11 Copy Image for VMware Fusion in Apple M1
 
 Network Problem FIX
 
