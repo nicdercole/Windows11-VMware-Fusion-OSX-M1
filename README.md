@@ -2,7 +2,7 @@
 Windows 11 for VMware Fusion in Apple M1
 
 
-Startup FIX:
+Startup Problem FIX:
 
 * At “Let’s connect you to a network” screen, press **SHIFT+F10** keys together. It’ll launch Command Prompt.
 
@@ -25,6 +25,5 @@ Network Problem FIX:
 
 * In CMD type: **bcdedit /dbgsettings net hostip:xxx.xxx.xxx.xxx port:yyyyy**
 
-What this does is configuring the Windows 11 arm VM to use an Ethernet connection for debugging and specifies the IP address of the host (Mac m1) computer. The command also specifies a port number that the host computer can use to connect to the target computer. This gives the Windows 11 Arm VM connectivity to the host.
+ * What this does is configuring the Windows 11 arm VM to use an Ethernet connection for debugging and specifies the IP address of the host (Mac m1) computer. The command also specifies a port number that the host computer can use to connect to the target computer. This gives the Windows 11 Arm VM connectivity to the host. **Solution by: bumwarrior69 --> the thread https://www.reddit.com/r/vmware/comments/obpg4c/windows_11_on_arm/**
 
-Solution by: bumwarrior69 --> the thread https://www.reddit.com/r/vmware/comments/obpg4c/windows_11_on_arm/
