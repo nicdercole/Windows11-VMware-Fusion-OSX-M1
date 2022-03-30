@@ -1,6 +1,5 @@
-# Windows11-VMware-Fusion-M1
-Windows 11 for VMware Fusion in Apple M1
-
+# Windows 11 VMware Fusion and Apple M1
+Windows 11 VMware Fusion and Apple M1
 
 Startup Problem FIX:
 
